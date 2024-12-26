@@ -1,0 +1,1 @@
+cmo %b1% baud=115200_parity=N_data=8_stop=1,cmo %b2% baud=115200_parity=N_data=8_stop=1,cmw %b1% ZZ,cmw %b2% ZZ
