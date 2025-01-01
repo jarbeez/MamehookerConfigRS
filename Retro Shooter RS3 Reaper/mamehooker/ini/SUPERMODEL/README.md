@@ -1,3 +1,5 @@
+All of these ***REQUIRE*** the scripts to be copied to the mamehooker scripts folder as well.
+
 | Title                         | Platform     | Year | Rom Name  | Notes             |
 |-------------------------------|--------------|------|-----------|-------------------|
 | L.A. Machineguns              | Sega Model 3 | 1998 | lamachin  |                   |
