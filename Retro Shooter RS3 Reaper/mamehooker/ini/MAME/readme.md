@@ -41,6 +41,13 @@ All of these ***REQUIRE*** the scripts to be copied to the mamehooker scripts fo
 | Rail Chase 2                     | Sega Model 2  | 1994 | rchase2                     | No recoil output.                                                              |
 | Virtua Cop                       | Sega Model 2  | 1994 | vcop                        |                                                                                |
 | Virtua Cop 2                     | Sega Model 2  | 1995 | vcop2                       |                                                                                |
+| Confidential Mission             | Sega Naomi    | 2000 | confmiss                    |                                                                                |
+| Death Crimson OX                 | Sega Naomi    | 2000 | deathcox                    |                                                                                |
+| House of the Dead 2              | Sega Naomi    | 1998 | hotd2                       |                                                                                |
+| Lupin The Third - The Shooting   | Sega Naomi    | 2001 | lupinsho                    |                                                                                |
+| Manic Panic Ghosts!              | Sega Naomi    | 2007 | manicpnc                    | No recoil output.                                                              |
+| Maze of the Kings                | Sega Naomi    | 2002 | mok                         |                                                                                |
+| Ninja Assault                    | Sega Naomi    | 2000 | ninjaslt                    |                                                                                |
 | 2Spicy                           | TeknoParrot   | 2007 | 2spicy                      |                                                                                |
 | Jurassic Park                    | TeknoParrot   | 2015 | jp                          |                                                                                |
 | Operation G.H.O.S.T.             | TeknoParrot   | 2011 | Operation G.H.O.S.T         |                                                                                |
