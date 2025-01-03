@@ -49,6 +49,7 @@ All of these ***REQUIRE*** the scripts to be copied to the mamehooker scripts fo
 | Maze of the Kings                | Sega Naomi    | 2002 | mok                         |                                                                                |
 | Ninja Assault                    | Sega Naomi    | 2000 | ninjaslt                    |                                                                                |
 | 2Spicy                           | TeknoParrot   | 2007 | 2spicy                      |                                                                                |
+| Aliens Armageddon                | TeknoParrot   | 2014 | aa                          |                                                                                |
 | Jurassic Park                    | TeknoParrot   | 2015 | jp                          |                                                                                |
 | Operation G.H.O.S.T.             | TeknoParrot   | 2011 | Operation G.H.O.S.T         |                                                                                |
 | Time Crisis 5                    | TeknoParrot   | 2015 | tc5                         |                                                                                |
