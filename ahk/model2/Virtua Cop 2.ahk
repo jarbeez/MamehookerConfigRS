@@ -1,13 +1,18 @@
 ﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir \RetroBat-TriggerHappy\emulators\m2emulator\  ; Ensures a consistent starting directory.
+
+EnvGet, MameHook, MAMEHOOK
+EnvGet, DemulShooter, DEMULSHOOTER
+EnvGet, Sm2, SM2_HOME
+
+SetWorkingDir %Sm2%  ; Ensures a consistent starting directory.
 #SingleInstance force
 
-Run, \RetroBat-TriggerHappy\tools\mamehooker5.1\mamehook.exe
+Run, %MameHook%
 sleep, 2000
-Run, \RetroBat-TriggerHappy\tools\DemulShooter\DemulShooter.exe -target=model2 -rom=gunblade
-Run, emulator_multicpu.exe gunblade
+Run, %DemulShooter% -target=model2 -rom=vcop2
+Run, emulator_multicpu.exe vcop2
 
 Escape::
 	WinClose, ahk_exe emulator_multicpu.exe
